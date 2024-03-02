@@ -1,0 +1,39 @@
+body {
+    font-size: large;
+    background-image: linear-gradient(to bottom, #341671, #0C0A3E);
+    color: whitesmoke;
+}
+
+.navbar {
+    background-image: linear-gradient(to top right, #6411AD, #0C0A3E);
+}
+
+footer {
+    background-color: #0C0A3E;
+}
+
+#carouselExampleAutoplaying img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+#footer_sec {
+    background-color: #B388EB;
+  }
+
+.footer_txt {
+    width: 60px;
+    background-color: #7c4dff;
+    height: 2px;
+  }
+
+#copyrights {
+    background-color: rgba(0, 0, 0, 0.2)
+}
